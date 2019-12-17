@@ -1,0 +1,32 @@
+.box{
+	width: 200px;
+	height: 200px;
+	grid-template-rows: 50% 50% ;
+	grid-template-columns: 50% 50% ;
+	background-color: grey;
+	border: red 2px solid;
+	display: grid;
+}	
+
+.box-a{
+	background-color: white;
+	border: red 2px;
+}
+.box-b{
+	background-color: white;
+	border: red 2px;
+}
+.box-c{
+	background-color: white;
+	border: red 2px;
+}
+.box-d{
+	background-color: white;
+	border: red 2px;
+}
+.grid{ 
+	display: grid;
+	background-color: grey;
+	width: 2000 px;
+	height: 2000 px;
+}
